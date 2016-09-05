@@ -1,5 +1,7 @@
 # Juhele-map-icons
 
+![Alt text](/juhele_icons_preview01.jpg?raw=true "Icon set preview")
+
 Is a vector icon set made for offline vector maps derived from OpenStreetMap data. The aim was to create:
 
 1) simple but easily recognizable icons
