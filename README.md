@@ -1,11 +1,12 @@
 # Juhele-map-icons
 
-Is a vector icon set made for offline vector maps derived from OpenStreetMap data. The aim was:
+Is a vector icon set made for offline vector maps derived from OpenStreetMap data. The aim was to create:
 
 1) simple but easily recognizable icons
 
 2) the icons were made for background maps so only traffic icons use different color (blue) while the rest is brown (with some blue for water)
 
+The whole set is licenced under Public Domain / CC0 license :-)
 
 Remarks:
 original sources for my icons are:
