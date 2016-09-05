@@ -8,6 +8,13 @@ Is a vector icon set made for offline vector maps derived from OpenStreetMap dat
 
 
 Remarks:
+original sources for my icons are:
+
+Mirror of the map icons used on OpenStreetMap.org
+https://github.com/openstreetmap/map-icons
+
+Category:Mapnik Icon svg
+http://wiki.openstreetmap.org/wiki/Category:Mapnik_Icon_svg
 
 The Prague metro "M" symbol is from Wikipedia Commons
 https://commons.wikimedia.org/wiki/File:Prag_Metro_Logo.svg
