@@ -11,6 +11,9 @@ Is a vector icon set made for offline vector maps derived from OpenStreetMap dat
 The whole set is licenced under Public Domain / CC0 license :-)
 
 Changelog:
+
+2016-09-17 - added symbols for London Underground, Austrian Vienna S-Bahn etc. - all Public Domain - source files from Wikipedia
+
 2016-09-05 - uploaded all icons created for my project, expect to create more in future to have complete set comparable to OSM icon set
 
 
