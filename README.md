@@ -16,6 +16,8 @@ Changelog:
 
 2016-09-05 - uploaded all icons created for my project, expect to create more in future to have complete set comparable to OSM icon set
 
+2018-03-22 - big update - uploaded several new icons
+
 
 Remarks:
 original sources for my icons are:
