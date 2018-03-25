@@ -18,6 +18,8 @@ Changelog:
 
 2018-03-22 - big update - uploaded several new icons
 
+2018-03-25 - big update - uploaded new icons - power plants - nuclear, coal and wind (todo - solar, geothermal, hydro)
+
 
 Remarks:
 original sources for my icons are:
